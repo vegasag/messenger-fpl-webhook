@@ -1,0 +1,22 @@
+{
+  "name": "messenger-fpl-webhook",
+  "version": "1.0.0",
+  "description": "webhook for messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegasag/messenger-fpl-webhook.git"
+  },
+  "keywords": [
+    "fpl"
+  ],
+  "author": "Saga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vegasag/messenger-fpl-webhook/issues"
+  },
+  "homepage": "https://github.com/vegasag/messenger-fpl-webhook#readme"
+}
